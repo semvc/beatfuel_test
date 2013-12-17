@@ -4,8 +4,8 @@ ruby '2.0.0'
 gem 'rails', '4.0.0'
 
 # Servers
-gem 'puma'
-gem 'unicorn'
+#gem 'puma'
+#gem 'unicorn'
 
 gem 'omniauth'
 gem 'omniauth-twitter'
@@ -42,9 +42,10 @@ gem 'coffee-rails', '~> 4.0.0'
 # gem 'handlebars_assets'
 gem 'i18n-js'
 gem 'jquery-turbolinks'
-gem 'less-rails'
+#gem 'less-rails'
 gem 'sass-rails', '~> 4.0.0'
-gem 'therubyracer'
+#gem 'therubyracer'
+
 gem 'turbolinks'
 gem 'twitter-bootstrap-rails', github: 'diowa/twitter-bootstrap-rails', branch: 'fontawesome-3.2.1'
 gem 'uglifier', '>= 1.3.0'
